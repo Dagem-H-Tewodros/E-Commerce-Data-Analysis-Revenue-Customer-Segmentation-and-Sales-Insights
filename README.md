@@ -4,7 +4,7 @@
 This project explores e-commerce sales data from an online retail platform, focusing on data cleaning, exploratory analysis, and customer segmentation. By leveraging MySQL for data cleaning and exploratory analysis, Python for market segmentation using RFM analysis and K-means clustering, and Power BI for visualization, we uncover key insights that drive business growth.
 
 ## Original Dataset
-The original dataset used for this analysis can be found on Kaggle: [Kaggle Dataset](https://www.kaggle.com/path-to-dataset)
+The original dataset used for this analysis can be found on Kaggle: [Kaggle Dataset](https://www.kaggle.com/datasets/tunguz/online-retail)
 
 ## Data Cleaning
 The data cleaning process involved:

@@ -35,7 +35,7 @@ The project includes a Power BI dashboard for visualizing the analysis results:
 - **Customer Segmentation:** Visual representations of customer segments based on RFM metrics.
 - **Product and Geographic Analysis:** Insights into top products and country-specific sales performance.
 
-[**View the Power BI Dashboard**](https://your-powerbi-link-here)
+[**View the Power BI Dashboard**]([https://your-powerbi-link-here](https://app.powerbi.com/view?r=eyJrIjoiODFkYzBjN2UtMWMwYi00MzQxLWExOTItMWQzNjQ4MDJiMGQwIiwidCI6IjQ3NmZjNmYxLTc0YjYtNDBiMS1hNjEzLWNhOTA2MmY5YzM1MyJ9))
 
 ## Conclusion
 This analysis provides actionable insights into customer behavior, product performance, and sales trends, enabling strategic decision-making to enhance business growth.
